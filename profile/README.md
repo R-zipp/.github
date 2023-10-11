@@ -14,19 +14,6 @@
 
 
 ## 2. 팀원 소개
-### Server
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/kny3037"><img src="https://avatars.githubusercontent.com/kny3037" width="150px;" alt="">
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/kny3037"><b>김나영</b></td>
-  </tr>
- <tr>
-    <td align="center">Kim Na Yeong</td>
-  </tr>
-</table>
 
 ### AI
 <table>
@@ -54,13 +41,27 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/jongminKims"><b>김채린</b></td>
-    <td align="center"><a href="https://github.com/MinkyoJeong1"><b>반재형</b></td>
+    <td align="center"><a href="https://github.com/"><b>김채린</b></td>
+    <td align="center"><a href="https://github.com/"><b>반재형</b></td>
 
   </tr>
  <tr>
     <td align="center"></td>
     <td align="center"></td>
+  </tr>
+</table>
+
+### Server
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/kny3037"><img src="https://avatars.githubusercontent.com/kny3037" width="150px;" alt="">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/kny3037"><b>김나영</b></td>
+  </tr>
+ <tr>
+    <td align="center">Kim Na Yeong</td>
   </tr>
 </table>
 
