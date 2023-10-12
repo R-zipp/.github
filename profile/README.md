@@ -68,11 +68,11 @@
 ### Data Science
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/"><img src="https://avatars.githubusercontent.com/" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/jisuk782"><img src="https://avatars.githubusercontent.com/jisuk782" width="150px;" alt="">
     </td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/"><b>강지석</b></td>
+    <td align="center"><a href="https://github.com/jisuk782"><b>강지석</b></td>
   </tr>
  <tr>
     <td align="center"></td>
