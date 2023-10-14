@@ -46,8 +46,8 @@
 
   </tr>
  <tr>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">Kim Chae Rin</td>
+    <td align="center">Ban Jae hyeong</td>
   </tr>
 </table>
 
@@ -75,7 +75,7 @@
     <td align="center"><a href="https://github.com/jisuk782"><b>강지석</b></td>
   </tr>
  <tr>
-    <td align="center"></td>
+    <td align="center">Kang Ji Suk</td>
   </tr>
 </table>
 
