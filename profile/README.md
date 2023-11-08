@@ -3,7 +3,7 @@
 [집이 없나영? Server repository](https://github.com/ar-zipp/server)
 
 ## AI Repository
-[집이 없나영? AI repository](https://github.com/ar-zipp/AI-server)
+[집이 없나영? AI repository](https://github.com/ar-zipp/AI)
 
 ## Unreal Repository
 [집이 없나영? Unreal repository](https://github.com/ar-zipp/Unreal-server)
