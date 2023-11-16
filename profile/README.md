@@ -1,19 +1,20 @@
 # 🏠R-Zip
 ## Server Repository
-[집이 없나영? Server repository](https://github.com/ar-zipp/server)
+[집이 없나영? Server repository](https://github.com/R-zipp/server)
 
 ## AI Repository
-[집이 없나영? AI repository](https://github.com/ar-zipp/AI)
+[집이 없나영? AI repository](https://github.com/R-zipp/AI)
 
 ## Unreal Repository
-[집이 없나영? Unreal repository](https://github.com/ar-zipp/Unreal-server)
+[집이 없나영? Unreal repository](https://github.com/R-zipp/Unreal-server.git)
 
 <br>
 
 ## 1. 프로젝트 소개
 <br/>
-<strong>AR 기술</strong>과 <strong>언리얼<strong>을 활용한 인테리어 프로그램입니다.<br/>
-인테리어 및 조명 디자인을 원하는 공간에 미리 적용하며, 해당 공간속에서  아바타로 직접 참여하여 이후 발생할 수 있는 비용 및 문제를 줄여보고자 합니다. 
+<strong>언리얼<strong>을 활용한 인테리어 프로그램입니다.<br/>
+간단하게 도면을 업로드 하여 3D 그래픽으로 구현해 원하는 가구를 원하는 위치에 가상으로 배치할 수 있는 서비스를 제공합니다.
+
 
 
 ### 주요 기능 소개
