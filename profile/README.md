@@ -1,4 +1,4 @@
-# 🏠AR-Zip
+# 🏠R-Zip
 ## Server Repository
 [집이 없나영? Server repository](https://github.com/ar-zipp/server)
 
