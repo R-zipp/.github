@@ -1,12 +1,12 @@
 # 🏠R-Zip
 ## Server Repository
-[집이 없나영? Server repository](https://github.com/R-zipp/server)
+[집에 갈 수 있나영? Server repository](https://github.com/R-zipp/server)
 
 ## AI Repository
-[집이 없나영? AI repository](https://github.com/R-zipp/AI)
+[집에 갈 수 있나영? AI repository](https://github.com/R-zipp/AI)
 
 ## Unreal Repository
-[집이 없나영? Unreal repository](https://github.com/R-zipp/Unreal-server.git)
+[집에 갈 수 있나영? Unreal repository](https://github.com/R-zipp/Unreal-server.git)
 
 <br>
 
